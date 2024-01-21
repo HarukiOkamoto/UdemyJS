@@ -32,3 +32,9 @@ console.log('after for');
 //3,表示させたい画面がディスプレイ上にないtき
 //4,見た目の変更がない時かつ、animation frame callbacksに何もない時
 //5,ブラウザがスキップしたい時
+
+//Web Workers API
+//二つ目のイベントループを作る。
+
+//Dispatch Event Method
+//タスクキューに入れずに同期的に実行

@@ -25,3 +25,5 @@
 // ネットワークリクエストを行うためのAPI。XMLHttpRequestの後継として、PromiseベースのシンプルなAPIとして導入されました。
 // ・WebRTC API:
 // ブラウザ間のリアルタイム通信（Real-Time Communication）を実現するためのAPI。ビデオチャットや音声通話などに利用されます。
+
+//te
